@@ -1,0 +1,9 @@
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/bin/Debug/netstandard2.0/Round5.B.deps.json
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/bin/Debug/netstandard2.0/Round5.B.dll
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/bin/Debug/netstandard2.0/Round5.B.pdb
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/obj/Debug/netstandard2.0/Round5.B.csprojAssemblyReference.cache
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/obj/Debug/netstandard2.0/Round5.B.csproj.CoreCompileInputs.cache
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/obj/Debug/netstandard2.0/Round5.B.AssemblyInfoInputs.cache
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/obj/Debug/netstandard2.0/Round5.B.AssemblyInfo.cs
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/obj/Debug/netstandard2.0/Round5.B.dll
+/Users/pedro/src/RefactoringGolfCSharp/Round5.B/obj/Debug/netstandard2.0/Round5.B.pdb

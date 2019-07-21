@@ -1,0 +1,13 @@
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/bin/Debug/netcoreapp2.1/Round4.A.deps.json
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/bin/Debug/netcoreapp2.1/Round4.A.runtimeconfig.json
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/bin/Debug/netcoreapp2.1/Round4.A.runtimeconfig.dev.json
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/bin/Debug/netcoreapp2.1/Round4.A.dll
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/bin/Debug/netcoreapp2.1/Round4.A.pdb
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/obj/Debug/netcoreapp2.1/Round4.A.csproj.CoreCompileInputs.cache
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/obj/Debug/netcoreapp2.1/Round4.A.AssemblyInfoInputs.cache
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/obj/Debug/netcoreapp2.1/Round4.A.AssemblyInfo.cs
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/obj/Debug/netcoreapp2.1/Round4.A.dll
+/Users/pedro/src/RefactoringGolfCSharp/Round4.A/obj/Debug/netcoreapp2.1/Round4.A.pdb

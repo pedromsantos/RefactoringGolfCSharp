@@ -9,7 +9,7 @@ namespace Round2.A
     public class FootballData
     {
 
-        public static Game[] GetAllPlayed()
+        public Game[] GetAllPlayed()
         {
             Game[] played = new Game[3];
             played[0] = new Game("Liverpool", 2, "Everton", 0);

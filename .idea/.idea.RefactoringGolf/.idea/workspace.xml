@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47683ee5-5604-4122-9c5b-ede38b8a08ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Round1.A/obj/Debug/Round1.A.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.A/obj/Debug/Round1.A.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B.Tests/obj/Debug/Round1.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B.Tests/obj/Debug/Round1.B.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/bin/Debug/Round1.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B/bin/Debug/Round1.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/bin/Debug/Round1.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B/bin/Debug/Round1.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round1.B/obj/Debug/Round1.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A.Tests/obj/Debug/Round2.A.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A.Tests/obj/Debug/Round2.A.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/bin/Debug/Round2.A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A/bin/Debug/Round2.A.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/bin/Debug/Round2.A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A/bin/Debug/Round2.A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.A/obj/Debug/Round2.A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B.Tests/obj/Debug/Round2.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B.Tests/obj/Debug/Round2.B.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/bin/Debug/Round2.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/bin/Debug/Round2.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/bin/Debug/Round2.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/bin/Debug/Round2.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round2.B/obj/Debug/Round2.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A.Tests/obj/Debug/Round3.A.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A.Tests/obj/Debug/Round3.A.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/bin/Debug/Round3.A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A/bin/Debug/Round3.A.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/bin/Debug/Round3.A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A/bin/Debug/Round3.A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.A/obj/Debug/Round3.A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B.Tests/obj/Debug/Round3.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B.Tests/obj/Debug/Round3.B.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/bin/Debug/Round3.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/bin/Debug/Round3.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/bin/Debug/Round3.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/bin/Debug/Round3.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round3.B/obj/Debug/Round3.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.A/obj/Debug/Round4.A.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.A/obj/Debug/Round4.A.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B.Tests/obj/Debug/Round4.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B.Tests/obj/Debug/Round4.B.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/bin/Debug/Round4.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/bin/Debug/Round4.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/bin/Debug/Round4.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/bin/Debug/Round4.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round4.B/obj/Debug/Round4.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A.Tests/obj/Debug/Round5.A.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A.Tests/obj/Debug/Round5.A.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/bin/Debug/Round5.A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A/bin/Debug/Round5.A.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/bin/Debug/Round5.A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A/bin/Debug/Round5.A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.A/obj/Debug/Round5.A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B.Tests/obj/Debug/Round5.B.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B.Tests/obj/Debug/Round5.B.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/bin/Debug/Round5.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B/bin/Debug/Round5.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/bin/Debug/Round5.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B/bin/Debug/Round5.B.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Round5.B/obj/Debug/Round5.B.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Round1.B/FibonacciIndex.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1563726731500" expanded="true" signature="53:1006" ph="{...}" />
+                <marker date="1563726731500" expanded="true" signature="87:1004" ph="{...}" />
+                <marker date="1563726731500" expanded="true" signature="140:298" ph="{...}" />
+                <marker date="1563726731500" expanded="true" signature="198:252" ph="{...}" />
+                <marker date="1563726731500" expanded="true" signature="340:839" ph="{...}" />
+                <marker date="1563726731500" expanded="true" signature="532:791" ph="{...}" />
+                <marker date="1563726731500" expanded="true" signature="890:998" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <marker date="1563726731479" expanded="false" signature="6:138" ph="..." />
+                <marker date="1563726731479" expanded="true" signature="158:1224" ph="{...}" />
+                <marker date="1563726731479" expanded="true" signature="208:1221" ph="{...}" />
+                <marker date="1563726731479" expanded="true" signature="488:550" ph="{...}" />
+                <marker date="1563726731479" expanded="true" signature="614:657" ph="{...}" />
+                <marker date="1563726731479" expanded="true" signature="715:759" ph="{...}" />
+                <marker date="1563726731479" expanded="true" signature="803:1217" ph="{...}" />
+                <marker date="1563726731479" expanded="true" signature="842:873" ph="{...}" />
+                <marker date="1563726731479" expanded="true" signature="1018:1185" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round2.A/FootballData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <marker date="1563726731512" expanded="false" signature="6:115" ph="..." />
+                <marker date="1563726731512" expanded="true" signature="135:513" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="167:510" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="218:503" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round2.A/FootballScoreStats.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <marker date="1563726731512" expanded="false" signature="6:115" ph="..." />
+                <marker date="1563726731512" expanded="true" signature="135:702" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="173:700" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="226:693" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="362:664" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="428:513" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="565:650" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Round2.A/Game.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <marker date="1563726731512" expanded="false" signature="6:115" ph="..." />
+                <marker date="1563726731512" expanded="true" signature="135:1014" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="159:1011" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="435:631" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="663:721" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="755:818" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="850:908" ph="{...}" />
+                <marker date="1563726731512" expanded="true" signature="942:1005" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.A/FootballScoreStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round1.B/FibonacciIndex.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.A/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Round2.A/FootballData.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.RefactoringGolf/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.RefactoringGolf/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1307" />
+    <option name="y" value="-2160" />
+    <option name="width" value="3840" />
+    <option name="height" value="2160" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RefactoringGolf" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1307" y="-2160" width="3840" height="2160" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986835" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Round1.A/FibonacciIndexTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1563726731479" expanded="false" signature="6:138" ph="..." />
+            <marker date="1563726731479" expanded="true" signature="158:1224" ph="{...}" />
+            <marker date="1563726731479" expanded="true" signature="208:1221" ph="{...}" />
+            <marker date="1563726731479" expanded="true" signature="488:550" ph="{...}" />
+            <marker date="1563726731479" expanded="true" signature="614:657" ph="{...}" />
+            <marker date="1563726731479" expanded="true" signature="715:759" ph="{...}" />
+            <marker date="1563726731479" expanded="true" signature="803:1217" ph="{...}" />
+            <marker date="1563726731479" expanded="true" signature="842:873" ph="{...}" />
+            <marker date="1563726731479" expanded="true" signature="1018:1185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.A/FootballData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1563726731512" expanded="false" signature="6:115" ph="..." />
+            <marker date="1563726731512" expanded="true" signature="135:513" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="167:510" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="218:503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.A/FootballScoreStats.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1563726731512" expanded="false" signature="6:115" ph="..." />
+            <marker date="1563726731512" expanded="true" signature="135:702" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="173:700" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="226:693" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="362:664" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="428:513" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="565:650" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round2.A/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1563726731512" expanded="false" signature="6:115" ph="..." />
+            <marker date="1563726731512" expanded="true" signature="135:1014" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="159:1011" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="435:631" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="663:721" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="755:818" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="850:908" ph="{...}" />
+            <marker date="1563726731512" expanded="true" signature="942:1005" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Round1.B/FibonacciIndex.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1563726731500" expanded="true" signature="53:1006" ph="{...}" />
+            <marker date="1563726731500" expanded="true" signature="87:1004" ph="{...}" />
+            <marker date="1563726731500" expanded="true" signature="140:298" ph="{...}" />
+            <marker date="1563726731500" expanded="true" signature="198:252" ph="{...}" />
+            <marker date="1563726731500" expanded="true" signature="340:839" ph="{...}" />
+            <marker date="1563726731500" expanded="true" signature="532:791" ph="{...}" />
+            <marker date="1563726731500" expanded="true" signature="890:998" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
